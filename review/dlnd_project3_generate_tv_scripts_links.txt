@@ -1,0 +1,26 @@
+DLND_Project3
+Generate TV Scripts
+
+    When you want to preprocess a text:
+    To understand more what you need to do with your data before using it on your model, here a good link:
+    http://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn
+
+    Word representation:
+    When you have to represent words for a true deeplearning model, you should think deeper to close words, or words with almost the same spelling but with a highly different meaning. From this statement word2vec try to solve this issue. Here a good link to explain it:
+    https://www.tensorflow.org/tutorials/word2vec
+    Another ressources: https://www.oreilly.com/learning/capturing-semantic-meanings-using-deep-learning
+
+    Good articles :
+    http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+    http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+    More advanced about recurrent network, Attention and Augmented Recurrent Neural Networks:
+    http://distill.pub/2016/augmented-rnns/
+
+Pre-processing Data
+https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn
+
+Build the RNN
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
