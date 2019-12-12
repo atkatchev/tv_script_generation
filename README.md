@@ -1,6 +1,6 @@
 # TV Script Project Overview
 
-The TV Script Generation project is the third project of the Udacity Deep Learning Nano Degree. The project consists of using a Recurrent Neural Network (RNN) to generate a TV script. The RNN is trained on an existing scripts, then used to generate an original piece of writing.
+Third project in Udacity's Deep Learning Nanodegree program. Designed and trained a Recurrent Neural Network (RNN) to generate new "fake" Seinfeld TV scripts. The RNN was trained on Seinfeld dataset of scripts from 9 seasons.
 
 # Instruction 
 
